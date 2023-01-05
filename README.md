@@ -13,6 +13,7 @@ Este projeto tem o intuito de ser um Modelo de Previsão de Churn para a empresa
 - [x] Fundamentos de GIT
 - [x] SQL
 - [x] Python
+- [x] Análise de Dados 
 - [x] Técnicas de Machine Learning
 - [x] Modelagem Matemática e Estatística
 
