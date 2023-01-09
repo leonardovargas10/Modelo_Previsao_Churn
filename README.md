@@ -1,4 +1,4 @@
-﻿# Modelo_Churn_Telecom
+﻿# Modelo_Churn_Telco
 
 <p align="center">
   <img src = './img01.png' width = '50%'>
