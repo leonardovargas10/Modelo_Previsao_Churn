@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem o intuito de ser um Modelo de Previsão de Churn para a empresa de Telecomunicações Telco. Com base nos pedidos da CEO, o projeto consiste em realizar uma Análise Exploratória em busca de levantar insights válidos e, posteriormente, elaborar uma solução para combater o Churn da Companhia.
+Este projeto tem o intuito de ser um Modelo de Previsão de Churn para a empresa de Telecomunicações Telco. Com base nos pedidos da CEO, o projeto consiste em realizar uma Análise Exploratória em busca de levantar insights válidos e, posteriormente, elaborar uma solução para combater o Churn da Companhia. Para mais informações, consultar o Notebook.
 
 ## Fundamentação Teórica
 
@@ -20,7 +20,7 @@ Este projeto tem o intuito de ser um Modelo de Previsão de Churn para a empresa
 ## Status do Projeto
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ## Referências
